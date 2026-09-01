@@ -14,7 +14,9 @@
 
 # Recomendaciones.
 
--Equipo, Recomendaciones basadas en datos Alinear metas comerciales con el ciclo estacional para evitar sobrepresión en meses valle. 
+-Equipo, Recomendaciones basadas en datos.
+
+-Alinear metas comerciales con el ciclo estacional para evitar sobrepresión en meses valle. 
 -Planificar inventarios anticipando los picos para evitar quiebres y sobrecostos. Redistribuir campañas: invertir más en meses pico para capturar demanda y reforzar visibilidad en meses valle. 
 -Optimizar portafolio: priorizar productos menos sensibles a la estacionalidad para estabilizar ingresos. Ajustar precios dinámicamente según el comportamiento estacional y la elasticidad de cada categoría. 
 -Segmentar clientes según sensibilidad estacional para diseñar estrategias diferenciadas. 
