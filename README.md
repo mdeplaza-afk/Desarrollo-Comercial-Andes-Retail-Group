@@ -16,7 +16,7 @@
 
 Equipo, Recomendaciones basadas en datos.
 
--Alinear metas comerciales con el ciclo estacional para evitar sobrepresión en meses valle. 
+-Alinear las metas comerciales con el ciclo estacional para evitar sobrepresión en meses valle. 
 
 -Planificar inventarios anticipando los picos para evitar quiebres y sobrecostos. 
 
