@@ -1,33 +1,135 @@
-# Desarrollo-Comercial-Andes-Retail-Group.
--Andes Retail Group 2026.
+# 📊 Desarrollo Comercial – Andes Retail Group  
+Análisis de desempeño comercial, segmentación, cohortes y estacionalidad  
+**Autora:** Martha Deplaza  
+**Año:** 2026  
 
--Introducción.
+---
 
--Este informe presenta el análisis comercial de Andes Retail Group para los años 2024–2025. El objetivo es evaluar el desempeño del negocio a través de métricas clave como ingresos, utilidad, margen, estacionalidad, segmentos, categorías y regiones. El documento integra visualizaciones provenientes del dashboard desarrollado en Power BI, organizadas en una narrativa clara y orientada a la toma de decisiones.
-# Dashboard.
+## 📘 Descripción del Proyecto
 
--El dashboard se construirá con dos vistas: -Vista Overview (alto nivel)
--Para responder qué pasó entre 2024 y 2025: evolución, ingresos, utilidad y margen. -Vista Detalle (diagnóstico)
--Para responder por qué pasó: estacionalidad, categorías, segmentos, regiones. El enfoque será rentabilidad + tendencias, usando las columnas clave: Ingresos, Utilidad_ventas, Margen, Categoría_Producto, Segmento_Cliente, Región, Fecha_Pedido.
+Este repositorio contiene el análisis comercial de **Andes Retail Group**, desarrollado como parte del proyecto de visualización y análisis de datos.  
+El objetivo es evaluar el desempeño del negocio mediante métricas clave como:
 
--Se describe de forma estructurada la historia completa del dashboard usando SCQA, incluyendo contexto, problemas detectados, preguntas de negocio y recomendaciones basadas en datos.
+- Ingresos totales y por dimensión  
+- Segmentos de comprador  
+- Tipos de propiedad  
+- Canales de venta  
+- Cohortes mensuales  
+- Estacionalidad y comportamiento temporal  
+- Comparación YTD vs Año Anterior  
 
-# Recomendaciones.
+El proyecto incluye un dashboard interactivo en Power BI y un informe ejecutivo con narrativa SCQA.
 
-Equipo, Recomendaciones basadas en datos.
+---
 
--Alinear las metas comerciales con el ciclo estacional para evitar sobrepresión en meses valle. 
+## 📂 Estructura del Repositorio
 
--Planificar inventarios anticipando los picos para evitar quiebres y sobrecostos. 
+Desarrollo-Comercial-Andes-Retail-Group/
+│
+├── data/                 # Datos utilizados en el análisis
+├── images/               # Imágenes del dashboard (overview, detalle, cohorte, ingresos)
+├── report/               # Documento del informe (Word/PDF)
+├── README.md             # Documentación del proyecto
+└── dashboard.pbix        # Archivo de Power BI
 
--Redistribuir campañas: invertir más en meses pico para capturar demanda y reforzar visibilidad en meses valle. 
+## 📊 Dashboard – Vistas Principales
 
--Optimizar portafolio: priorizar productos menos sensibles a la estacionalidad para estabilizar ingresos. 
+### **1. Overview – Estrategia Comercial**
+Resumen de indicadores clave:
+- Ingresos Totales  
+- Ingreso Promedio  
+- Comisiones  
+- Cantidad de inmuebles  
+- Participación por canal, segmento y tipo de propiedad  
+- Tendencia YoY  
 
--Ajustar precios dinámicamente según el comportamiento estacional y la elasticidad de cada categoría. 
+📎 *Imagen:* `images/overview.png`
 
--Segmentar clientes según sensibilidad estacional para diseñar estrategias diferenciadas. 
+---
 
--Medir canales de ventas para dirigir objetivos publicitarios.
+### **2. Detalle – Segmentación y Rentabilidad**
+Incluye:
+- Ingresos por segmento de comprador  
+- Participación por canal  
+- Ticket promedio por tipo de propiedad  
+- Ventas por ciudad  
+- Ventas por cliente (YoY)  
 
-En conjunto, el dashboard permite transformar la estacionalidad de un problema en una ventaja competitiva, al anticipar el ciclo y actuar proactivamente.
+📎 *Imagen:* `images/detalle.png`
+
+---
+
+### **3. Cohorte – Análisis Temporal**
+Permite analizar:
+- Comportamiento de ventas por mes  
+- Comparación entre cohortes  
+- Patrones de retención o recurrencia  
+
+📎 *Imagen:* `images/cohorte.png`
+
+---
+
+### **4. Ingresos Mensuales Acumulados**
+Comparación entre:
+- Ventas YTD  
+- Ventas YTD Año Anterior  
+- Tendencias mensuales  
+- YoY %  
+
+📎 *Imagen:* `images/ingresos_mensuales.png`
+
+---
+
+## 🧩 SCQA – Narrativa Ejecutiva
+
+**Situación:**  
+Las ventas presentan picos y valles pronunciados durante el año.
+
+**Complicación:**  
+La estacionalidad afecta la interpretación de las métricas mensuales y la planificación comercial.
+
+**Pregunta:**  
+¿Cómo cambia el desempeño comercial al incorporar la estacionalidad?
+
+**Respuesta:**  
+La estacionalidad explica la mayor parte de la variación mensual.  
+Los meses pico concentran gran parte del ingreso anual, permitiendo ajustar metas y estrategias.
+
+---
+
+## 📝 Mensaje Ejecutivo
+
+Las ventas están determinadas por la estacionalidad.  
+Se recomienda:
+
+- Alinear la planificación comercial al calendario estacional  
+- Reforzar campañas en meses pico  
+- Optimizar precios  
+- Priorizar productos estables para suavizar meses valle  
+
+---
+
+## 📈 Conclusiones
+
+- El negocio presenta crecimiento sostenido.  
+- La segmentación revela oportunidades en segmentos de alto patrimonio e inversionistas.  
+- La estacionalidad es clave para la planificación comercial.  
+- Las cohortes permiten identificar patrones temporales.  
+- El análisis YTD confirma un crecimiento significativo en 2024.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Power BI**  
+- **Python (pandas, numpy)**  
+- **GitHub / GitHub Desktop**  
+- **Markdown**  
+- **Excel / CSV**  
+
+---
+
+## 📬 Contacto
+
+Si deseas más información sobre el proyecto:  
+**Martha Deplaza – Data Analyst**
