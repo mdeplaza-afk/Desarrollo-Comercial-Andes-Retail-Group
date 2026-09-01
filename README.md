@@ -28,4 +28,6 @@ Equipo, Recomendaciones basadas en datos.
 
 -Segmentar clientes según sensibilidad estacional para diseñar estrategias diferenciadas. 
 
--Medir canales de ventas para dirigir objetivos publicitarios En conjunto, el dashboard permite transformar la estacionalidad de un problema en una ventaja competitiva, al anticipar el ciclo y actuar proactivamente.
+-Medir canales de ventas para dirigir objetivos publicitarios.
+
+En conjunto, el dashboard permite transformar la estacionalidad de un problema en una ventaja competitiva, al anticipar el ciclo y actuar proactivamente.
